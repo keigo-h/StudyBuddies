@@ -1,0 +1,42 @@
+
+div {
+    /* height: 100vh; */
+    background-color: #d5f3fe;
+}
+
+form {
+    height: 100vh;
+    width: 100vw;
+    padding: 50px;
+    text-align: center;
+    background-color: #d5f3fe;
+    /*background-color: #ece3c5;*/
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Monaco", "Courier New", monospace;
+    font-size: 15px;
+    color: #253d5b;
+    opacity: 1;
+}
+
+div button {
+    font-family: "Monaco", "Courier New", monospace;
+    color: #253d5b;
+    font-size: 25px;
+    background-color: rgba(213, 184, 153, .8)
+}
+
+div button:hover  {
+    color: #36a936;
+}
+
+.message {
+    font-size: 1.2em;
+    text-align: center;
+    color: #36a936;
+}
+
+.pastResultsButton:hover {
+    color: #36a936;
+}
