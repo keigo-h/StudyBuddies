@@ -1,0 +1,16 @@
+div {
+    padding: 3px;
+    font-size: 15px;
+}
+
+div input {
+    font-size: 15px;
+    background-color: rgba(213, 184, 153, .3)
+}
+
+div select {
+    font-family: "Monaco", "Courier New", monospace;
+    color: #253d5b;
+    font-size: 15px;
+    background-color: rgba(213, 184, 153, .3)
+}
